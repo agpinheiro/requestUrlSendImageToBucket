@@ -1,7 +1,7 @@
 // função principal de uplod
 const env = {
 	URL_AUTOCENTER: 'http://localhost:3001', // api autocenter
-	URL_BUCKET: '', // bucket 
+	URL_BUCKET: 'url-bucket', // url bucket 
 }
 async function uploadFile(
 ) {
